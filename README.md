@@ -53,7 +53,7 @@ São abordados tópicos de uma página web, incluindo HTML, CSS e JavaScript, be
   ### 4. A biblioteca Leaflet
 
   - Instalação da biblioteca [Leaflet](https://leafletjs.com/examples/quick-start/) pela Content Delivery Network (CDN) ou Rede de Distribuição de Conteúdo
-  - A tag de script e código JavaScript
+  - A tag de `script` e código JavaScript
   - Criar e configurar a `id` da `div`
   - Comentário em Javascript
   - Declarar variável com `let`
