@@ -2,7 +2,7 @@
 
 ## Curso de criação de mapa online e visualização de dados geolocalizados usando a biblioteca Leaflet.
 
-## Introdução à plataforma online de mapas
+## Apresentação
 
 Com a popularização das tecnologias de comunicação, as ferramentas de criar, editar e desenhar mapas deixam de ser um campo específico de atividade de profissionais da cartografia, e tornam-se disponíveis em plataformas online para pessoas interessadas em trabalhar com mapas e geolocalização da informação, ou seja, a informação situada espacialmente no território.
 
