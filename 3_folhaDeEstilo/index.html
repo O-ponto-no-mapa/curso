@@ -1,0 +1,68 @@
+<!-- Esta linha é um comentário, não tem nenhuma funcionalidade e nem vai ser visível no navegador. -->
+<!-- Para comentar, são necessários os caracteres '<', '!' e '-' no início e no fim, conforme usados aqui. -->
+<!-- O comentário ajuda a entender e lembrar o que estamos fazendo.-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Folha de estilo em cascata (CSS)</title>
+</head>
+
+<body>
+    <div>
+        <h1>Folha de estilo</h1>
+        <p>
+            A folha de estilo em cascata (em inglês, Cascading Style Sheets - CSS) pode ser feita dentro do arquivo html
+            ou como arquivo externo. A folha de estilo é usada para especificar a cor, formato, dimensões,
+            layout, fonte do texto, tamanho do texto, comportamento de interação, bordas, tipos de preenchimentos, e
+            diversas propriedades. Neste exercício é usado o arquivo externo 'estilo.css', que está referenciado no
+            elemento 'head'.
+        </p>
+    </div>
+    <div>
+        <h2>Estilos personalizados</h2>
+        <p>
+            Além dos elementos HTML que podem ser formatados com folha de estilo, é possível usar 'class' e 'id' para
+            aplicar estilos exclusivamente em determinados grupo de elementos. De modo geral, a 'class' é usada para um
+            conjunto de elementos, e a 'id' é usada exclusivamente em um único elemento.
+        </p>
+
+        <p>
+            No exemplo abaixo é criado um elemento 'div' com 'class' atribuída como 'paleta', e na folha de estilo é
+            especificada a largura e borda. Dentro dessa 'div' são criadas outras 'div' atribuidas cada uma com um 'id'
+            especifico. Dessa forma é possível definir individualmente a cor de fundo e a cor do texto.
+        </p>
+
+        <div class="paleta">
+            <div id="cor1">cor #8c7d77</div>
+            <div id="cor2">cor #ffffff</div>
+            <div id="cor3">cor #d9d1ce</div>
+            <div id="cor4">cor #698c85</div>
+            <div id="cor5">cor #ced9d7</div>
+
+        </div>
+    </div>
+    <div>
+        <h2>Formatando o link</h2>
+        <p>
+            Assim como os outros elementos HTML, também é possível alterar a formatação padrão do elemento 'a' de link.
+            Além
+            das propriedades de CSS, o elemento 'a' tem quatro estados:</p>
+        <ul>
+            <li>a:link - o link que ainda não foi visitado</li>
+            <li>a:visited - o link que já foi visitado</li>
+            <li>a:hover - o link quando está sobreposto pelo cursor do mouse</li>
+            <li>a:active - o link no momento que é clicado</li>
+        </ul>
+
+        <p>
+            Este <a href="#top"> link aqui</a> vai para o começo da página, e exemplica aplicação de estilo no elemento 'a',
+            sem o sublinhado e alteração de cores quando é sobreposto pelo cursor do mouse.
+        </p>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,68 @@
+/* Para escrever um comentário no arquivo CSS, use barra e asterisco para abrir o comentário e asterisco barra para fechar. */
+
+/* Configura propriedades do elemento 'body'. */
+body {
+    width: 800px;
+    background-color: #d9d1ce;
+    color: #8c7d77;
+    font-family: sans-serif;
+    margin: 10px;
+}
+
+/* Configura propriedades dos elemento 'h1' e 'h2'. */
+h1,
+h2 {
+    font-family: monospace;
+}
+
+/* Configura propriedades do elemento 'div'. */
+div {
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+/* Configura propriedades do elemento 'a' de link. */
+a {
+    color: #698c85;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #698c85;
+    color: #ffffff;
+
+}
+
+/* Configura propriedades da class 'paleta'. */
+.paleta {
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+    border: black solid 1px;
+}
+
+/* Configura propriedades da id 'cor1'. */
+#cor1 {
+    background-color: #8c7d77;
+    color: #ffffff;
+}
+
+#cor2 {
+    background-color: #ffffff;
+    color: #8c7d77;
+}
+
+#cor3 {
+    background-color: #d9d1ce;
+    color: #ffffff;
+}
+
+#cor4 {
+    background-color: #698c85;
+    color: #ffffff;
+}
+
+#cor5 {
+    background-color: #ced9d7;
+    color: #ffffff;
+}
