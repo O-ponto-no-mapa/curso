@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="estilo.css">
+    <title>A biblioteca Leaflet</title>
+
+    <!--Abaixo é refeerenciada a folha de estilo da biblioteca de mapas Leaflet-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+    <!-- Logo após a folha de estilo da Leaflet, é necessária a tag abaixo de script da biblioteca Leaflet.-->
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+</head>
+
+<body>
+
+    <h1>O mapa</h1>
+    <div id="mapaLeaflet"></div>
+    <script>
+        // Em Javascript, este é o formato para comentar o código em linha: '//' seguido do comentário. 
+
+        // Cria o objeto 'meuMapa' com a vista centralizada nas coordenadas [latitude,longitudue] com um zoom inicial de 8.
+        let meuMapa = L.map('mapaLeaflet').setView([-7.238144, -39.415122], 9);
+
+        // Cria o mapa usando as imagens ('tiles') do OpenStreetMap (OSM), com a opção de atribuição citando a fonte da base de imagens do OSM.
+        // Em seguida, o mapa é adicionado ao objeto 'meuMapa' com a função addTo().
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(meuMapa);
+    </script>
+    <p>
+        Mapa da região do Cariri, centralizado nas coordenadas -7.238144 de latitude e
+        -39.415122 de longitude, usando a biblioteca de mapas Leaflet com a base de
+        imagens do OpenStreetMap. A latitude negativa significa que está localizada ao sul do Equador, e a
+        longitude negativa significa que está localizada ao oeste do Meridiano de Greenwich.
+    </p>
+</body>
+
+</html>
