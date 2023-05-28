@@ -117,7 +117,6 @@ São abordados tópicos de uma página web, incluindo HTML, CSS e JavaScript, be
   ### 13. Página o ponto no mapa
   
   - Configurar a página para visualizar em dispositivos móveis no elemento `meta` com atributos
-  - Criar elemento `nav`
   - Definir layout com Flexbox
   - Usar elemento `nav` para menu de navegação da página
   - Criar página HTML para informações sobre o projeto
