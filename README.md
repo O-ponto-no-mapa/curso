@@ -6,12 +6,12 @@
 
 ## Índice
 
-- [Apresentação](https://github.com/o-ponto-no-mapa/curso#apresenta%C3%A7%C3%A3o)
-- [Objetivo](https://github.com/o-ponto-no-mapa/curso#objetivo)
-- [Pré-requisito](https://github.com/o-ponto-no-mapa/curso#pr%C3%A9-requisito)
-- [Conteúdo](https://github.com/o-ponto-no-mapa/curso#conte%C3%BAdo)
-- [Ferramentas usadas no curso](https://github.com/o-ponto-no-mapa/curso#ferramentas-usadas-no-curso)
-- [Referências](https://github.com/o-ponto-no-mapa/curso#refer%C3%AAncias)
+- [Apresentação](#apresenta%C3%A7%C3%A3o)
+- [Objetivo](#objetivo)
+- [Pré-requisito](#pr%C3%A9-requisito)
+- [Conteúdo](#conte%C3%BAdo)
+- [Ferramentas usadas no curso](#ferramentas-usadas-no-curso)
+- [Referências](#refer%C3%AAncias)
 
 ---
 
