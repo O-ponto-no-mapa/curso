@@ -4,6 +4,17 @@
 
 ## Curso de criação de mapa online e visualização de dados geolocalizados usando a biblioteca Leaflet.
 
+## Índice
+
+- [Apresentação](https://github.com/o-ponto-no-mapa/curso#apresenta%C3%A7%C3%A3o)
+- [Objetivo](https://github.com/o-ponto-no-mapa/curso#objetivo)
+- [Pré-requisito](https://github.com/o-ponto-no-mapa/curso#pr%C3%A9-requisito)
+- [Conteúdo](https://github.com/o-ponto-no-mapa/curso#conte%C3%BAdo)
+- [Ferramentas usadas no curso](https://github.com/o-ponto-no-mapa/curso#ferramentas-usadas-no-curso)
+- [Referências](https://github.com/o-ponto-no-mapa/curso#refer%C3%AAncias)
+
+---
+
 ## Apresentação
 
 Com a popularização das tecnologias de comunicação, as ferramentas de criar, editar e desenhar mapas deixam de ser um campo específico de atividade de profissionais da cartografia, e tornam-se disponíveis em plataformas online para pessoas interessadas em trabalhar com mapas e geolocalização da informação, ou seja, a informação situada espacialmente no território.
@@ -138,6 +149,17 @@ No curso são usados os seguintes recursos:
 - Editor de códigos, pode ser qualquer um, até o bloco de notas, mas uso Microsoft Visual Studio Code - https://code.visualstudio.com;
 - Biblioteca de mapas Leaflet - https://leafletjs.com; 
 - Conta na plataforma GitHub - https://github.com, caso queira hospedar o mapa na internet e não disponha de serviço de hospedagem. 
+
+## Referências
+
+Base de imagens de mapas para usar com Leaflet: https://leaflet-extras.github.io/leaflet-providers/preview/
+
+Exemplos de mapas e recursos com Leaflet de Grzegorz Tomicki: https://tomickigrzegorz.github.io/leaflet-examples/
+
+API de dados atmosféricos e climáticos Open Meteo: https://open-meteo.com/en/docs#api-documentation 
+
+Site do Geoparque Araripe: http://geoparkararipe.urca.br/
+
 
 Boa diversão com o(s) ponto(s) no mapa!
 
