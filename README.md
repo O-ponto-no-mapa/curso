@@ -152,6 +152,8 @@ No curso são usados os seguintes recursos:
 
 ## Referências
 
+Documentação sobre HTML, CSS e JavaScript da Mozilla - MDN Web Docs: https://developer.mozilla.org/pt-BR/docs/Web/HTML
+
 Base de imagens de mapas para usar com Leaflet: https://leaflet-extras.github.io/leaflet-providers/preview/
 
 Exemplos de mapas e recursos com Leaflet de Grzegorz Tomicki: https://tomickigrzegorz.github.io/leaflet-examples/
