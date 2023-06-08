@@ -1,6 +1,6 @@
-# ![o ponto no mapa](https://raw.githubusercontent.com/O-ponto-no-mapa/site/3a8574ab760decd2b46d02b905d3661e269f7820/logo_marrom.png)
+![o ponto no mapa](https://raw.githubusercontent.com/O-ponto-no-mapa/site/3a8574ab760decd2b46d02b905d3661e269f7820/logo_marrom.png)
 
-## Curso de criação de mapa online e visualização de dados geolocalizados usando a biblioteca Leaflet.
+# Curso de criação de mapa online e visualização de dados geolocalizados usando a biblioteca Leaflet.
 
 ## Índice
 
