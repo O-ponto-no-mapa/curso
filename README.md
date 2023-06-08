@@ -1,4 +1,9 @@
-![o ponto no mapa](https://raw.githubusercontent.com/O-ponto-no-mapa/site/3a8574ab760decd2b46d02b905d3661e269f7820/logo_marrom.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/O-ponto-no-mapa/site/7b2f4b1ba74aa2ab9ab9be2639baff7f1bf5c618/logo_branco.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/O-ponto-no-mapa/site/3a8574ab760decd2b46d02b905d3661e269f7820/logo_marrom.png">
+  <img alt="o ponto no mapa" src="https://raw.githubusercontent.com/O-ponto-no-mapa/site/7b2f4b1ba74aa2ab9ab9be2639baff7f1bf5c618/logo_branco.png">
+</picture>
+
 
 # Curso de criação de mapa online e visualização de dados geolocalizados usando a biblioteca Leaflet.
 
