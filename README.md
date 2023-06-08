@@ -23,6 +23,8 @@ A partir dessas questões e interesses, surgiu a proposta do curso **o ponto no 
 
 Neste curso vamos desenvolver este [site](https://o-ponto-no-mapa.github.io/site/), com o mapeamento dos nove geossítios do Geoparque Mundial da UNESCO - Geoparque Araripe.
 
+![O ponto no mapa e nove geossítios do Geoparque Araripe](https://github.com/o-ponto-no-mapa/site/blob/07693b68b9f2c6b96c4b479f75d4909be692e73d/printTela.png)
+
 ## Objetivo
 
 O objetivo do curso é facilitar a produção de mapas online, demonstrando um caminho possível (porque existem vários) de desenvolvimento de uma página web com a finalidade de exibir um mapa e informações geolocalizadas. 
