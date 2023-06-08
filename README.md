@@ -143,9 +143,9 @@ São abordados tópicos de uma página web, incluindo HTML, CSS e JavaScript, be
   
   - Criar conta
   - Criar repositório
-  - Editar arquivo readme.md na markup languagem do GitHub
+  - Editar arquivo `README.md` na linguagem de marcação do GitHub
   - Enviar arquivos
-  - Configurar o repositório como página
+  - Configurar o repositório como página web
 
 ## Ferramentas usadas no curso
 
