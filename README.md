@@ -19,7 +19,7 @@ Com a popularização das tecnologias de comunicação, as ferramentas de criar,
 
 O mapa é um instrumento de navegação durante o deslocamento pelos espaços da cidades, é usado como ferramenta de pesquisa para descobrir regiões, lugares, rotas de transporte, na geolocalização de imagens e de postagens nas redes sociais, como serviço de encomendas, transporte, paqueras, bem como na produção de informação geolocalizada. De tal forma que o mapa faz parte da nossa rotina diária, nas mais diversas atividades. E consequentemente, surge o interesse e demanda de criar mapas, seja com finalidade de localização de elementos e informações no espaço, e também com um propósito criativo ou experimental. 
 
-A partir dessas questões e interesses, surgiu a proposta do curso **o ponto no mapa**, voltado para não-programadores, como os colegas da arquitetura e urbanismo, e para quem quiser criar um ponto, um conto, no mapa. Além de serviços pagos ou proprietários, existem tecnologias abertas, open source, de criação de mapas online. E a que vamos usar neste curso é a biblioteca Leaflet, uma biblioteca em linguagem JavaScript que é popular e bem documentada. 
+A partir dessas questões e interesses, surgiu a proposta do curso **o ponto no mapa**, voltado para não-programadores e para quem quiser criar um conto, um ponto no mapa. Além de serviços pagos ou proprietários, existem tecnologias abertas, *open source*, de criação de mapas online. E a que vamos usar neste curso é a biblioteca Leaflet, uma biblioteca em linguagem JavaScript que é popular e bem documentada. 
 
 Neste curso vamos desenvolver este [site](https://o-ponto-no-mapa.github.io/site/), com o mapeamento dos nove geossítios do Geoparque Mundial da UNESCO - Geoparque Araripe.
 
