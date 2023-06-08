@@ -6,40 +6,11 @@
 
 # Curso de criação de mapa online e visualização de dados geolocalizados usando a biblioteca Leaflet.
 
-## Índice
+Para mais informações sobre o curso **o ponto no mapa**, visite [arturvc.net.br/opontonomapa.html](http://arturvc.net.br/opontonomapa.html).
 
-- [Apresentação](#apresenta%C3%A7%C3%A3o)
-- [Objetivo](#objetivo)
-- [Pré-requisito](#pr%C3%A9-requisito)
-- [Conteúdo](#conte%C3%BAdo)
-- [Ferramentas usadas no curso](#ferramentas-usadas-no-curso)
-- [Referências](#refer%C3%AAncias)
-
----
-
-## Apresentação
-
-Com a popularização das tecnologias de comunicação, as ferramentas de criar, editar e desenhar mapas deixam de ser um campo específico de atividade de profissionais da cartografia, e tornam-se disponíveis em plataformas online para pessoas interessadas em trabalhar com mapas e geolocalização da informação, ou seja, a informação situada espacialmente no território.
-
-O mapa é um instrumento de navegação durante o deslocamento pelos espaços da cidades, é usado como ferramenta de pesquisa para descobrir regiões, lugares, rotas de transporte, na geolocalização de imagens e de postagens nas redes sociais, como serviço de encomendas, transporte, paqueras, bem como na produção de informação geolocalizada. De tal forma que o mapa faz parte da nossa rotina diária, nas mais diversas atividades. E consequentemente, surge o interesse e demanda de criar mapas, seja com finalidade de localização de elementos e informações no espaço, e também com um propósito criativo ou experimental. 
-
-A partir dessas questões e interesses, surgiu a proposta do curso **o ponto no mapa**, voltado para não-programadores e para quem quiser criar um conto, um ponto no mapa. Além de serviços pagos ou proprietários, existem tecnologias abertas, *open source*, de criação de mapas online. E a que vamos usar neste curso é a biblioteca Leaflet, uma biblioteca em linguagem JavaScript que é popular e bem documentada. 
-
-Neste curso vamos desenvolver este [site](https://o-ponto-no-mapa.github.io/site/), com o mapeamento dos nove geossítios do Geoparque Mundial da UNESCO - Geoparque Araripe.
-
-![O ponto no mapa e nove geossítios do Geoparque Araripe](https://github.com/o-ponto-no-mapa/site/blob/07693b68b9f2c6b96c4b479f75d4909be692e73d/printTela.png)
-
-## Objetivo
-
-O objetivo do curso é facilitar a produção de mapas online, demonstrando um caminho possível (porque existem vários) de desenvolvimento de uma página web com a finalidade de exibir um mapa e informações geolocalizadas. 
-
-## Pré-requisito
-
-O pré-requisito para participar é ter conhecimento básico de informática. Não é necessário conhecimento prévio em programação.
+***
 
 ## Conteúdo
-
-São abordados tópicos de uma página web, incluindo HTML, CSS e JavaScript, bem como arquivos de dados tipo JSON, orientados para o objetivo de criar mapas.
 
   ### 1. Estrutura básica de página HTML
   
@@ -70,7 +41,7 @@ São abordados tópicos de uma página web, incluindo HTML, CSS e JavaScript, be
 
   ### 4. A biblioteca Leaflet
 
-  - Instalação da biblioteca [Leaflet](https://leafletjs.com/examples/quick-start/) pela Content Delivery Network (CDN) ou Rede de Distribuição de Conteúdo
+  - Instalação da biblioteca Leaflet pela Content Delivery Network (CDN) ou Rede de Distribuição de Conteúdo
   - A tag de `script` e código JavaScript
   - Criar e configurar a `id` da `div`
   - Comentário em Javascript
@@ -147,30 +118,8 @@ São abordados tópicos de uma página web, incluindo HTML, CSS e JavaScript, be
   - Enviar arquivos
   - Configurar o repositório como página web
 
-## Ferramentas usadas no curso
+***
 
-No curso são usados os seguintes recursos:
-- Editor de códigos, pode ser qualquer um, até o bloco de notas, mas uso Microsoft Visual Studio Code - https://code.visualstudio.com;
-- Biblioteca de mapas Leaflet - https://leafletjs.com; 
-- Conta na plataforma GitHub - https://github.com, caso queira hospedar o mapa na internet e não disponha de serviço de hospedagem. 
+O curso **o ponto no mapa** é desenvolvido por Artur Cordeiro.
 
-## Referências
-
-Documentação sobre HTML, CSS e JavaScript da Mozilla - MDN Web Docs: https://developer.mozilla.org/pt-BR/docs/Web/HTML
-
-Base de imagens de mapas para usar com Leaflet: https://leaflet-extras.github.io/leaflet-providers/preview/
-
-Exemplos de mapas e recursos com Leaflet de Grzegorz Tomicki: https://tomickigrzegorz.github.io/leaflet-examples/
-
-API de dados atmosféricos e climáticos Open Meteo: https://open-meteo.com/en/docs#api-documentation 
-
-Site do Geoparque Araripe: http://geoparkararipe.urca.br/
-
-
-Boa diversão com o(s) ponto(s) no mapa!
-
-*** 
-  
-O curso **o ponto no mapa** é desenvolvido por [Artur Cordeiro](http://arturvc.net.br). 
-
-Cariri, 07/06/2023.
+Cariri, 2023.
