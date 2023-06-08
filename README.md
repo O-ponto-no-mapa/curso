@@ -169,4 +169,4 @@ Boa diversão com o(s) ponto(s) no mapa!
   
 O curso **o ponto no mapa** é desenvolvido por [Artur Cordeiro](http://arturvc.net.br). 
 
-Cariri, 29/05/2023.
+Cariri, 07/06/2023.
